@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Shopify Inventory Sync Script</title>
-</head>
+
 <body>
 	<h1>Shopify Inventory Sync Script</h1>
 	<p>This Python script uses the Shopify REST API to sync the inventory levels of multiple Shopify stores. It can be used to ensure that the inventory levels for the same products are consistent across all stores.</p>
